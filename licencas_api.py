@@ -7,7 +7,7 @@ licencas = {
     "admita": "ativo",
     "benedetti": "inativo",
     "salomon": "ativo",
-    "alvaz": "ativo"
+    "alvaz": "inativo"
 }
 
 @app.route('/')
