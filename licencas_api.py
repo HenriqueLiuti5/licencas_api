@@ -4,9 +4,10 @@ app = Flask(__name__)
 
 # Simulação de licenças (pode ser substituído por JSON/DB futuramente)
 licencas = {
-    "empresa123": "ativo",
-    "empresa456": "inativo",
-    "empresa789": "ativo"
+    "Admita": "ativo",
+    "Benedetti": "inativo",
+    "Salomon": "ativo",
+    "Alvaz": "ativo"
 }
 
 @app.route('/')
