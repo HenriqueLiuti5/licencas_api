@@ -6,7 +6,7 @@ app = Flask(__name__)
 licencas = {
     "admita": "ativo",
     "benedetti": "inativo",
-    "salomon": "ativo",
+    "salomon": "inativo",
     "alvaz": "inativo"
 }
 
